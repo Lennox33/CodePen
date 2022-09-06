@@ -94,10 +94,7 @@ padding-bottom: 150px;
   margin-bottom: 6rem;
 }
 
-#codePen{
-  width: 207px !important;
-  height: 148px !important; 
-}
+
 
 @media (max-width: 30.625em) {
   .projects-images {
