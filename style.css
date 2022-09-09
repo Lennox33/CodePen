@@ -149,9 +149,10 @@ padding-bottom: 150px;
   align-items: center;
   text-align: center;
   width: 100%;
-  height: 80vh;
+  height: 130px;
   padding: 0 2rem;
   background: var(--main-gray);
+  margin-top: 25px;
 }
 
 .contact-section-header > h2 {
@@ -173,7 +174,7 @@ padding-bottom: 150px;
   justify-content: center;
   width: 100%;
   max-width: 980px;
-  margin-top: 4rem;
+  margin-top: 20px;
   flex-wrap: wrap;
 }
 
@@ -181,6 +182,7 @@ padding-bottom: 150px;
   font-size: 2.4rem;
   text-shadow: 2px 2px 1px #1f1f1f;
   transition: transform 0.3s ease-out;
+  text-decoration: none;
 }
 
 .contact-details:hover {
@@ -190,7 +192,9 @@ padding-bottom: 150px;
 .btn {
   display: inline-block;
   padding: 1rem 2rem;
-  border-radius: 2px;
+  border-radius: 50px;
+  border: solid #FFCC00 5px;
+  color: white;
 }
         /*End of Contact section*/
  
@@ -201,7 +205,15 @@ color: White;
 background-color: #081E3F;
 border: solid #B6862C;
 left: 0px;
-padding-top: 100px;
-padding-bottom: 100px;
+padding-top: 50px;
+padding-bottom: 50px;
+}
+
+#footer-div{
+  font-size: 23px;
+  margin-bottom: 30px;
 }
       /*End of footer section*/
+
+
+      
