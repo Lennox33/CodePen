@@ -196,6 +196,14 @@ padding-bottom: 150px;
   border: solid #FFCC00 5px;
   color: white;
 }
+
+#linkedIn{
+  background-color:  #0a66c2;
+}
+
+#gitHub{
+  background-color: black;
+}
         /*End of Contact section*/
  
         /*Start of footer section*/
