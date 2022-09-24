@@ -71,8 +71,7 @@ padding-bottom: 150px;
 
 #project-header {
   max-width: 640px;
-  margin: 0 auto 6rem auto;
-  border-bottom: 0.2rem solid white;
+  margin: 0 auto 3rem auto;
   font-size: 36px;
   color: white;
 }
@@ -226,6 +225,3 @@ padding-bottom: 50px;
   margin-bottom: 30px;
 }
       /*End of footer section*/
-
-
-      
